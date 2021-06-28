@@ -1,2 +1,11 @@
 # initial-setup-node-js
-inital setup node js app
+  ### Clone the repo
+
+   https://github.com/krishnaveniperumal/initial-setup-node-js.git
+ ### Install
+
+   npm install
+ ### Run 
+
+  node index.js
+
